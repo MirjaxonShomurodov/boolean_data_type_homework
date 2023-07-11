@@ -1,5 +1,10 @@
 def main(a,b):
-    """
+    son=(a==b)
+    return son
+SON=main(2,2)
+print(SON)
+
+"""
     Check the following statement "they are equal"
     Args:
         a: int
@@ -8,4 +13,3 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return 
